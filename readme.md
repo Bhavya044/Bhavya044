@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Bhavya</h1>
+<h1 align="center"><i>Hello World 👋, I'm Bhavya!!</i></h1>
 <h3 align="center">A passionate to-be developer from Chandigarh ,India. 😁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya044&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya044" /> </p>
