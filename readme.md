@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: black; color: white;">
   <h1>👋 Hi there, I'm Bhavya!</h1>
   <h3>Passionate Frontend Developer | Chandigarh, India</h3>
   <img src="https://komarev.com/ghpvc/?username=bhavya044&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/bhavya-suri-b593aa113" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://www.facebook.com/bhavya.suri.100" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30" width="30" /></a>
   <a href="https://www.hackerrank.com/bhavya0381_cse19" target="_blank"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="HackerRank" height="30" width="30" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/bhavya0381cse19/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/bhavya0381cse19/profile" height="30" width="40"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/bhavya0381cse19/profile" target="_blank"><img src="https://img.icons8.com/windows/32/000000/geeksforgeeks.png" alt="GeeksforGeeks" height="30" width="30" /></a>
   <br/><br/>
   <h2>Languages and Tools</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
