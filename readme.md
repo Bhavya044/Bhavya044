@@ -9,9 +9,9 @@
 
 🌱 I'm constantly learning and exploring new technologies to enhance my frontend development skills.
 
-💬 Ask me about HTML, CSS, JavaScript, React, and other frontend frameworks.
+💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, and other frontend frameworks.
 
-📫 Reach me at [ab896855@gmail.com](mailto:ab896855@gmail.com)
+📫 Reach me at [bhavyasuri.bs23@gmail.com](mailto:bhavyasuri.bs23@gmail.com)
 
 ⚡ Fun fact: I'm also an avid traveler and love exploring new places!
 
@@ -19,27 +19,28 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/bhavya-suri-b593aa113" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://www.facebook.com/bhavya.suri.100" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/bhavya0381_cse19" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="HackerRank" height="30" width="30" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/bhavya0381cse19/profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://img.icons8.com/windows/32/000000/geeksforgeeks.png" alt="GeeksforGeeks" height="30" width="30" />
   </a>
 </p>
 
 ### Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40"/>
 </p>
 
 ### GitHub Stats
