@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhavya%20Suri&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=18&animation=fadeIn)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+web+systems;React+%2F+Next.js+%2F+TypeScript+specialist;Full+Stack+%E2%80%94+Frontend+to+Infrastructure;2.5%2B+years+%7C+1%2C000%2B+live+transactions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+web+systems;React+%2F+Next.js+%2F+TypeScript+specialist;Full+Stack+%E2%80%94+Frontend+to+Infrastructure;3%2B+years+%7C+1%2C000%2B+live+transactions)](https://git.io/typing-svg)
 
 <br/>
 
