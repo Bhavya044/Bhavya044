@@ -24,7 +24,7 @@
 const bhavya = {
   role:       "Full Stack Software Developer",
   location:   "Punjab, India 🇮🇳",
-  experience: "2.5+ years building production-grade systems",
+  experience: "3+ years building production-grade systems",
   focus:      ["React", "Next.js", "TypeScript", "Node.js"],
   currently:  "Building SaaS & marketplace platforms as an independent contractor",
   strengths:  ["Scalable APIs", "Frontend Architecture", "End-to-end Delivery"],
